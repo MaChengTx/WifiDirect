@@ -28,7 +28,6 @@ public class LoginActivity extends Activity {
         
         Button button = (Button) findViewById(R.id.btnEnter);
         
-        /*s*/
        /* proBar.setVisibility(View.GONE);*/
         ProgressBar proLogin = (ProgressBar) findViewById(R.id.progressBar1);
         proLogin.setVisibility(View.GONE);
